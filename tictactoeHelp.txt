@@ -1,0 +1,2 @@
+squares are numbered across then down as single integers starting from 0
+
